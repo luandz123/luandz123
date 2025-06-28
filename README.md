@@ -1,47 +1,186 @@
-<h2 align="center">🚀 Hello everyone! I'm Luận, hailing from Hanoi. About one year ago, I embarked on a thrilling journey into programming, and it's become an integral part of my life. Driven by curiosity for technology, I ventured into coding. Now, I’m focused on Backend.</h2>
-
-###
+# 👋 Xin chào! Tôi là **Luận** 
+### 🚀 Backend Developer | Hanoi, Vietnam
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luandz123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luandz123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Backend+Developer;TypeScript+Enthusiast;NestJS+Expert;Database+Architect;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+  
 </div>
 
-###
+---
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a47646b63546869636930774f574e6a4e32466b4e6931684d4449784c54513359545574596a426c4d4330354d5464694d544a694d475933595463755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e7471524d74452d6232516949326e6e65664e7853444d4a765a43635971466d71326363675f58667a716238"  />
+## 🎯 **Về tôi**
 
-###
+```typescript
+const luan = {
+    location: "Hanoi, Vietnam 🇻🇳",
+    experience: "1+ years in programming",
+    currentFocus: "Backend Development",
+    philosophy: "Code with passion, debug with patience",
+    status: "Building scalable solutions ⚡"
+};
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🔥 **Hiện tại tôi đang:**
+- 🎯 Chuyên sâu vào **Backend Architecture**
+- 🌱 Học **Microservices** và **Cloud Technologies**
+- 💡 Xây dựng **RESTful APIs** và **GraphQL**
+- 🚀 Tối ưu hóa **Database Performance**
+- 🤝 Tìm kiếm cơ hội **Collaboration**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Backend Frameworks**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Frontend (Bonus)**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Tools & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luandz123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luandz123&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</td>
+</tr>
+</table>
 </div>
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lu%E1%BA%ADn-nguy%E1%BB%85n-v%C4%83n-6018b42ba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/luan25032005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luandz123&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🏆 **GitHub Trophies**
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/luandz123/luandz123/output/snake.svg" alt="Snake animation" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=luandz123&theme=tokyonight&no-frame=true&row=1&column=7)
 
-###
+</div>
+
+---
+
+## 🎨 **Contribution Graph**
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/luandz123/luandz123/output/snake.svg)
+
+</div>
+
+---
+
+## 📈 **Weekly Development Breakdown**
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 23 mins   ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+JSON         2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
+SQL          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    8.7%
+Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **E-Commerce API**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+Scalable REST API với authentication, payment integration và real-time notifications.
+
+</td>
+<td width="50%">
+
+### 📊 **Data Analytics Dashboard**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Real-time dashboard với data visualization và advanced analytics.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📫 **Kết nối với tôi**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%E1%BA%ADn-nguy%E1%BB%85n-v%C4%83n-6018b42ba/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luan25032005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Quote**
+*"The best way to predict the future is to invent it."* - Alan Kay
+
+### 🎯 **Goals 2025**
+- [ ] Master **Microservices Architecture**
+- [ ] Contribute to **Open Source Projects**  
+- [ ] Learn **Kubernetes** & **AWS**
+- [ ] Build **10+ Backend Projects**
+- [ ] Share knowledge through **Tech Blogs**
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=luandz123&style=for-the-badge&color=brightgreen" alt="Profile Views">
+
+**Thanks for visiting! 🚀 Let's build something amazing together!**
+
+</div>
