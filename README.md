@@ -74,16 +74,18 @@ Chào bạn! Mình là một **Backend Software Engineer** với niềm đam mê
 ### 🌟 Dự án nổi bật (Featured Projects)
 
 <div align="center">
-  <!-- Thay thế "your-repo-1" bằng tên kho lưu trữ thật của bạn trên GitHub -->
-  <a href="https://github.com/luandz123/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luandz123&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
+  <a href="https://github.com/luandz123/cachethongphantan-datvexemphim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luandz123&repo=cachethongphantan-datvexemphim&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Distributed Cache - Movie Tickets" />
   </a>
   &nbsp;
-  <!-- Thay thế "your-repo-2" bằng tên kho lưu trữ thật của bạn trên GitHub -->
-  <a href="https://github.com/luandz123/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luandz123&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
+  <a href="https://github.com/luandz123/task-manager-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luandz123&repo=task-manager-backend&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Task Manager Backend" />
   </a>
 </div>
+
+> **💡 Highlights kỹ thuật:**
+> - **[Distributed Cache - Đặt vé xem phim](https://github.com/luandz123/cachethongphantan-datvexemphim)**: Hệ thống tối ưu hóa hiệu năng đặt vé bằng công nghệ Caching phân tán, giải quyết bài toán tải cao và đồng bộ dữ liệu.
+> - **[Task Manager Backend](https://github.com/luandz123/task-manager-backend)**: RESTful API mạnh mẽ phục vụ việc quản lý tiến độ công việc với kiến trúc rõ ràng, tính năng bảo mật tốt.
 
 ---
 
