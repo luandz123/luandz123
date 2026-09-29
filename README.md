@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=250&section=header&text=Nguyễn%20Văn%20Luận&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Scalable%20Systems&descAlignY=55&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D8FF,7289DA,0052D4&height=220&section=header&text=Nguyễn%20Văn%20Luận&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20Architecture&descAlignY=55&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Building+High-Performance+Backend+Services;TypeScript+,+Java+%26+NestJS+Specialist;Designing+Robust+RESTful+%26+GraphQL+APIs;Database+Tuning+%26+Microservices+Architecture;Always+Learning+%26+Exploring+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Building+High-Performance+Backend+Services;TypeScript+,+Java+%26+NestJS+Specialist;Designing+Robust+RESTful+%26+GraphQL+APIs;Database+Optimization+%26+Microservices;Always+Learning+%26+Exploring+New+Tech" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  📍 <b>Hanoi, Vietnam</b> &nbsp;|&nbsp; 
-  💼 Open to Opportunities &nbsp;|&nbsp;
-  🚀 High Concurrency &amp; Clean Architecture
+  📍 <b>Hanoi, Vietnam</b> &nbsp; | &nbsp; 
+  💻 Backend Developer &nbsp; | &nbsp; 
+  🚀 Passionate about Clean Code
 </p>
 
 <!-- Social Badges -->
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=00D8FF" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=00D8FF" alt="Portfolio"/>
   </a>
 </p>
 
@@ -34,46 +34,38 @@
 
 ---
 
-### 👨‍💻 Về bản thân tôi (About Me)
+### 👨‍💻 Giới thiệu (About Me)
 
-```yaml
-name: Nguyễn Văn Luận
-role: Backend Software Engineer
-location: Hanoi, Vietnam
-focus_areas:
-  - Microservices Architecture & Event-Driven Systems
-  - Database Optimization (PostgreSQL, MongoDB, Redis Caching)
-  - API Gateway, System Security & Rate Limiting
-current_goals:
-  - Deep dive into Cloud-Native ecosystems (Docker, K8s, AWS)
-  - Contribute to active Open Source repositories
-hobbies: [Coding, Tech Blogging, System Design Reading]
-```
+Chào bạn! Mình là một **Backend Software Engineer** với niềm đam mê xây dựng các hệ thống mạnh mẽ, có khả năng mở rộng cao (highly scalable). Mình luôn tập trung vào việc viết code sạch (clean code) và tối ưu hóa hiệu năng hệ thống.
+
+- 🔭 Hiện tại, mình đang nghiên cứu chuyên sâu về **Microservices Architecture** và **Event-Driven Systems**.
+- 🌱 Đang trau dồi và làm quen với các công nghệ Cloud-Native như **Docker, Kubernetes, AWS**.
+- 💡 Mình thích giải quyết các bài toán liên quan đến **Database Optimization** (PostgreSQL, MongoDB, Redis).
+- 💬 Hãy nhắn tin cho mình nếu bạn muốn trao đổi về **Backend, System Design** hoặc cơ hội hợp tác!
 
 ---
 
 ### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
 
 <div align="center">
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,nestjs,express,spring,postgres,mongodb,redis,docker,git,postman,linux,vscode&perline=7" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,java,nestjs,express,spring,postgres,mongodb,redis,mysql,docker,git,linux,postman,vscode&perline=8&theme=dark" alt="Tech Stack Icons"/>
   </a>
-
 </div>
 
 <br/>
 
-<details open>
-<summary><b>📂 Danh mục chi tiết công nghệ</b></summary>
+<details>
+<summary><b>🔥 Bấm vào đây để xem phân loại kỹ năng chi tiết</b></summary>
 <br/>
 
-- **Ngôn ngữ lập trình**: `TypeScript`, `JavaScript (ES6+)`, `Java`
-- **Backend Frameworks**: `NestJS`, `Express.js`, `Spring Boot`
-- **Cơ sở dữ liệu & Caching**: `PostgreSQL`, `MongoDB`, `Redis`, `MySQL`
-- **ORM & Database Tools**: `Prisma`, `TypeORM`, `Mongoose`
-- **Architecture & APIs**: `RESTful APIs`, `GraphQL`, `Microservices`, `Clean Architecture`
-- **DevOps & Môi trường**: `Docker`, `Git / GitHub Actions`, `Postman`, `Linux`
+| Hạng mục | Công nghệ |
+| :--- | :--- |
+| **Ngôn ngữ** | `TypeScript`, `JavaScript (ES6+)`, `Java` |
+| **Frameworks** | `NestJS`, `Express.js`, `Spring Boot` |
+| **Database & Cache** | `PostgreSQL`, `MongoDB`, `Redis`, `MySQL` |
+| **Kiến trúc & API** | `RESTful APIs`, `GraphQL`, `Microservices`, `Clean Architecture` |
+| **Công cụ & DevOps**| `Docker`, `Git / GitHub Actions`, `Postman`, `Linux` |
 
 </details>
 
@@ -83,25 +75,25 @@ hobbies: [Coding, Tech Blogging, System Design Reading]
 
 <div align="center">
   <!-- Thay thế "your-repo-1" bằng tên kho lưu trữ thật của bạn trên GitHub -->
-  <a href="/github.com/luandz123/l-english-academy">
+  <a href="https://github.com/luandz123/your-repo-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luandz123&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
   </a>
   &nbsp;
   <!-- Thay thế "your-repo-2" bằng tên kho lưu trữ thật của bạn trên GitHub -->
-  <a href="https://github.com/luandz123/app-internal">
+  <a href="https://github.com/luandz123/your-repo-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luandz123&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
   </a>
 </div>
 
 ---
 
-### 📊 Hoạt động & Chỉ số GitHub (GitHub Analytics)
+### 📊 Chỉ số GitHub (GitHub Analytics)
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=luandz123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luandz123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandz123&theme=tokyonight&hide_border=true&layout=compact&langs_count=7&bg_color=0D1117&title_color=00D8FF&text_color=c9d1d9" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandz123&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&title_color=00D8FF&text_color=c9d1d9" height="180" alt="Top Languages" />
 
   <br/><br/>
 
@@ -111,15 +103,13 @@ hobbies: [Coding, Tech Blogging, System Design Reading]
 
 ---
 
-### 🏆 Huy hiệu thành tích (Trophies)
+### 🏆 Thành tích & Đóng góp (Trophies & Contribution)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luandz123&theme=tokyonight&no-frame=true&row=1&column=7&margin_w=10&bg_color=0D1117" alt="Trophies"/>
 </div>
 
----
-
-### 🐍 Đóng góp theo dòng thời gian (Contribution Graph)
+<br/>
 
 <div align="center">
   <picture>
@@ -133,7 +123,6 @@ hobbies: [Coding, Tech Blogging, System Design Reading]
 
 <div align="center">
 
-  ### 💬 Câu nói tâm đắc
   > *"First, solve the problem. Then, write the code."* — John Johnson
 
   <br/>
@@ -141,6 +130,6 @@ hobbies: [Coding, Tech Blogging, System Design Reading]
   <img src="https://komarev.com/ghpvc/?username=luandz123&style=flat-square&color=00D8FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
-  <sub>Designed with ❤️ by <b>Nguyễn Văn Luận</b> • © 2026 All Rights Reserved</sub>
+  <sub>Designed with ❤️ by <b>Nguyễn Văn Luận</b></sub>
 
 </div>
